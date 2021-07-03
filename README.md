@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![Account Stat](https://gh-stat.vercel.app/api?username=wangzhiyao&count_private=true&show_icons=true&hide_title=true&theme=graywhite&cache_seconds=1800)
-![Language Preference](https://gh-stat.vercel.app/api/top-langs/?username=wangzhiyao&count_private=true&langs_count=9&theme=graywhite&hide=css,html,cmake&cache_seconds=1800)
+![Language Preference](https://gh-stat.vercel.app/api/top-langs/?username=wangzhiyao&count_private=true&langs_count=2&theme=graywhite&hide=css,html,cmake&cache_seconds=1800)
 
 <!--
 **WangZhiYao/WangZhiYao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
