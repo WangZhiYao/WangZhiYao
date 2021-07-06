@@ -16,7 +16,7 @@ I'm a Software Engineer with 4 years of experience.
 
 ### Links
 
-- ✍️ Blogging at [339.im](https://339.im/)
+- ✍️ Blogging at [339.im](https://339.im/?utm_source=github&utm_medium=profile&utm_campaign=link)
 
 ### Contact
 
